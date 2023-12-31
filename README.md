@@ -1,0 +1,9 @@
+# LeetCode Submissions
+
+> Auto-generated with [LeetCode Synchronizer](https://github.com/dos-m0nk3y/LeetCode-Synchronizer)
+
+## Contents
+
+| # | Title | Difficulty | Skills |
+|---| ----- | ---------- | ------ |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
