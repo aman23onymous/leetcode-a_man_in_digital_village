@@ -1,5 +1,15 @@
 [
   {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "title_slug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
