@@ -9,6 +9,16 @@
     ]
   },
   {
+    "id": 50,
+    "title": "Pow(x, n)",
+    "title_slug": "powx-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 172,
     "title": "Factorial Trailing Zeroes",
     "title_slug": "factorial-trailing-zeroes",
