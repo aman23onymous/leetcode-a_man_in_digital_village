@@ -9,6 +9,15 @@
     ]
   },
   {
+    "id": 172,
+    "title": "Factorial Trailing Zeroes",
+    "title_slug": "factorial-trailing-zeroes",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 191,
     "title": "Number of 1 Bits",
     "title_slug": "number-of-1-bits",
