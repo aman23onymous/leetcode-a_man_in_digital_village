@@ -49,6 +49,15 @@
     ]
   },
   {
+    "id": 263,
+    "title": "Ugly Number",
+    "title_slug": "ugly-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
