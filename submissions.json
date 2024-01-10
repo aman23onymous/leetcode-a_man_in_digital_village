@@ -58,6 +58,16 @@
     ]
   },
   {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
