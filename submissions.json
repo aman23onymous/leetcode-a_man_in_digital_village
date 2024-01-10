@@ -38,6 +38,17 @@
     ]
   },
   {
+    "id": 258,
+    "title": "Add Digits",
+    "title_slug": "add-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
