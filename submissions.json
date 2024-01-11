@@ -97,5 +97,15 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 1492,
+    "title": "The kth Factor of n",
+    "title_slug": "the-kth-factor-of-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
