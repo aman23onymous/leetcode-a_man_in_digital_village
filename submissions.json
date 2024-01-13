@@ -127,5 +127,15 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 2413,
+    "title": "Smallest Even Multiple",
+    "title_slug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
