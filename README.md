@@ -18,3 +18,4 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | Medium | `Math` `Number Theory` |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | `Enumeration` `Math` `Number Theory` |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | `Math` |
