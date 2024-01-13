@@ -39,6 +39,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 191,
     "title": "Number of 1 Bits",
     "title_slug": "number-of-1-bits",
