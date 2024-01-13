@@ -17,3 +17,4 @@
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | Medium | `Math` `Number Theory` |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | `Enumeration` `Math` `Number Theory` |
