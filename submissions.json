@@ -101,6 +101,17 @@
     ]
   },
   {
+    "id": 867,
+    "title": "Transpose Matrix",
+    "title_slug": "transpose-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
