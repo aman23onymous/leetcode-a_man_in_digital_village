@@ -19,6 +19,17 @@
     ]
   },
   {
+    "id": 54,
+    "title": "Spiral Matrix",
+    "title_slug": "spiral-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 70,
     "title": "Climbing Stairs",
     "title_slug": "climbing-stairs",
