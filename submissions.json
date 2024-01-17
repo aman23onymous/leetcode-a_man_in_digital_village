@@ -73,6 +73,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 172,
     "title": "Factorial Trailing Zeroes",
     "title_slug": "factorial-trailing-zeroes",
