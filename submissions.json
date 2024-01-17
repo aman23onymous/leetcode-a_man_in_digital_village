@@ -216,6 +216,17 @@
     ]
   },
   {
+    "id": 2160,
+    "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+    "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
