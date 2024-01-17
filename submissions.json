@@ -196,6 +196,16 @@
     ]
   },
   {
+    "id": 1304,
+    "title": "Find N Unique Integers Sum up to Zero",
+    "title_slug": "find-n-unique-integers-sum-up-to-zero",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1492,
     "title": "The kth Factor of n",
     "title_slug": "the-kth-factor-of-n",
