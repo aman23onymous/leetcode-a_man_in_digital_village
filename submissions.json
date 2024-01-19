@@ -30,6 +30,15 @@
     ]
   },
   {
+    "id": 58,
+    "title": "Length of Last Word",
+    "title_slug": "length-of-last-word",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 59,
     "title": "Spiral Matrix II",
     "title_slug": "spiral-matrix-ii",
