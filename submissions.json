@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "title_slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 50,
     "title": "Pow(x, n)",
     "title_slug": "powx-n",
