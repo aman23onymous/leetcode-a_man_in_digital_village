@@ -196,6 +196,16 @@
     ]
   },
   {
+    "id": 441,
+    "title": "Arranging Coins",
+    "title_slug": "arranging-coins",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
