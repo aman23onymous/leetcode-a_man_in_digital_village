@@ -196,6 +196,16 @@
     ]
   },
   {
+    "id": 371,
+    "title": "Sum of Two Integers",
+    "title_slug": "sum-of-two-integers",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 441,
     "title": "Arranging Coins",
     "title_slug": "arranging-coins",
