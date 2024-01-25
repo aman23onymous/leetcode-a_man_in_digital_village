@@ -235,6 +235,17 @@
     ]
   },
   {
+    "id": 506,
+    "title": "Relative Ranks",
+    "title_slug": "relative-ranks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
