@@ -331,6 +331,17 @@
     ]
   },
   {
+    "id": 1608,
+    "title": "Special Array With X Elements Greater Than or Equal X",
+    "title_slug": "special-array-with-x-elements-greater-than-or-equal-x",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1952,
     "title": "Three Divisors",
     "title_slug": "three-divisors",
