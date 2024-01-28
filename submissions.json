@@ -353,6 +353,17 @@
     ]
   },
   {
+    "id": 2089,
+    "title": "Find Target Indices After Sorting Array",
+    "title_slug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2119,
     "title": "A Number After a Double Reversal",
     "title_slug": "a-number-after-a-double-reversal",
