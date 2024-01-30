@@ -340,6 +340,16 @@
     ]
   },
   {
+    "id": 852,
+    "title": "Peak Index in a Mountain Array",
+    "title_slug": "peak-index-in-a-mountain-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
