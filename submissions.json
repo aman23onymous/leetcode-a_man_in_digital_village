@@ -340,6 +340,17 @@
     ]
   },
   {
+    "id": 633,
+    "title": "Sum of Square Numbers",
+    "title_slug": "sum-of-square-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",
