@@ -187,6 +187,16 @@
     ]
   },
   {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 240,
     "title": "Search a 2D Matrix II",
     "title_slug": "search-a-2d-matrix-ii",
