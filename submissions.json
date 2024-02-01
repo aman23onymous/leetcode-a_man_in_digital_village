@@ -516,6 +516,16 @@
     ]
   },
   {
+    "id": 2187,
+    "title": "Minimum Time to Complete Trips",
+    "title_slug": "minimum-time-to-complete-trips",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
