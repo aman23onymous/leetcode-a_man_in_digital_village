@@ -50,6 +50,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | Medium | `Math` `Number Theory` |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | `Array` `Binary Search` |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | `Array` `Binary Search` `Sorting` |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | `Enumeration` `Math` `Number Theory` |
