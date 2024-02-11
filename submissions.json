@@ -328,6 +328,15 @@
     ]
   },
   {
+    "id": 551,
+    "title": "Student Attendance Record I",
+    "title_slug": "student-attendance-record-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
