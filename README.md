@@ -43,6 +43,7 @@
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | Medium | `Binary Search` `Math` `Two Pointers` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Medium | `Array` `Binary Search` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
