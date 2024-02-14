@@ -45,6 +45,7 @@
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Medium | `Array` `Binary Search` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |

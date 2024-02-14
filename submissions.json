@@ -399,6 +399,17 @@
     ]
   },
   {
+    "id": 739,
+    "title": "Daily Temperatures",
+    "title_slug": "daily-temperatures",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 852,
     "title": "Peak Index in a Mountain Array",
     "title_slug": "peak-index-in-a-mountain-array",
