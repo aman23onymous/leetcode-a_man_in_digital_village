@@ -441,6 +441,16 @@
     ]
   },
   {
+    "id": 908,
+    "title": "Smallest Range I",
+    "title_slug": "smallest-range-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1011,
     "title": "Capacity To Ship Packages Within D Days",
     "title_slug": "capacity-to-ship-packages-within-d-days",

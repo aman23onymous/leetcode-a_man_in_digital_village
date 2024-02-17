@@ -49,6 +49,7 @@
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | Medium | `Array` `Binary Search` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Medium | `Array` `Binary Search` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
