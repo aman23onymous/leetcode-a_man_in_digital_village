@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 34,
     "title": "Find First and Last Position of Element in Sorted Array",
     "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
