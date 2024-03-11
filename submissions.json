@@ -603,5 +603,14 @@
       "Array",
       "Enumeration"
     ]
+  },
+  {
+    "id": 2937,
+    "title": "Make Three Strings Equal",
+    "title_slug": "make-three-strings-equal",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]
