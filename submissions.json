@@ -1,5 +1,14 @@
 [
   {
+    "id": 6,
+    "title": "Zigzag Conversion",
+    "title_slug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 9,
     "title": "Palindrome Number",
     "title_slug": "palindrome-number",
