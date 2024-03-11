@@ -348,6 +348,17 @@
     ]
   },
   {
+    "id": 537,
+    "title": "Complex Number Multiplication",
+    "title_slug": "complex-number-multiplication",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 551,
     "title": "Student Attendance Record I",
     "title_slug": "student-attendance-record-i",

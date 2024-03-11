@@ -40,6 +40,7 @@
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` `String` |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | `String` |
+| 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium | `Math` `Simulation` `String` |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | `String` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
