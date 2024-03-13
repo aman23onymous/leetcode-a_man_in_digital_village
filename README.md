@@ -38,6 +38,7 @@
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | `Binary Search` `Math` |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | `String` `Two Pointers` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` `String` |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |

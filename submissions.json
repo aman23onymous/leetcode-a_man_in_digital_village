@@ -331,6 +331,16 @@
     ]
   },
   {
+    "id": 443,
+    "title": "String Compression",
+    "title_slug": "string-compression",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
