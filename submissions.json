@@ -371,6 +371,15 @@
     ]
   },
   {
+    "id": 507,
+    "title": "Perfect Number",
+    "title_slug": "perfect-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 520,
     "title": "Detect Capital",
     "title_slug": "detect-capital",
