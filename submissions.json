@@ -400,6 +400,16 @@
     ]
   },
   {
+    "id": 541,
+    "title": "Reverse String II",
+    "title_slug": "reverse-string-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 551,
     "title": "Student Attendance Record I",
     "title_slug": "student-attendance-record-i",
