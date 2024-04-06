@@ -40,6 +40,17 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 34,
     "title": "Find First and Last Position of Element in Sorted Array",
     "title_slug": "find-first-and-last-position-of-element-in-sorted-array",
