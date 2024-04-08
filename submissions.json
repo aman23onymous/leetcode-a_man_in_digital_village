@@ -112,6 +112,16 @@
     ]
   },
   {
+    "id": 60,
+    "title": "Permutation Sequence",
+    "title_slug": "permutation-sequence",
+    "difficulty": "Hard",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 69,
     "title": "Sqrt(x)",
     "title_slug": "sqrtx",
