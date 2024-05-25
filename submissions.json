@@ -522,6 +522,15 @@
     ]
   },
   {
+    "id": 728,
+    "title": "Self Dividing Numbers",
+    "title_slug": "self-dividing-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 739,
     "title": "Daily Temperatures",
     "title_slug": "daily-temperatures",
