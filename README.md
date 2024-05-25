@@ -47,6 +47,7 @@
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | `String` |
+| 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | `String` |
 | 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium | `Math` `Simulation` `String` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | `String` |

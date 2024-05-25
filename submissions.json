@@ -421,6 +421,15 @@
     ]
   },
   {
+    "id": 521,
+    "title": "Longest Uncommon Subsequence I",
+    "title_slug": "longest-uncommon-subsequence-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 537,
     "title": "Complex Number Multiplication",
     "title_slug": "complex-number-multiplication",
