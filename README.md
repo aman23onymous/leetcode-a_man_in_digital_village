@@ -83,3 +83,4 @@
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
+| 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference) | Medium | `Array` `Math` `Number Theory` |

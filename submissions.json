@@ -787,5 +787,16 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 3115,
+    "title": "Maximum Prime Difference",
+    "title_slug": "maximum-prime-difference",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
