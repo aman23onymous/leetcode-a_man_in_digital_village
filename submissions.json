@@ -798,5 +798,14 @@
       "Math",
       "Number Theory"
     ]
+  },
+  {
+    "id": 3131,
+    "title": "Find the Integer Added to Array I",
+    "title_slug": "find-the-integer-added-to-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
