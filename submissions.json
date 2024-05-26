@@ -778,5 +778,14 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 3110,
+    "title": "Score of a String",
+    "title_slug": "score-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]
