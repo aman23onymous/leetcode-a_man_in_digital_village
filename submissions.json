@@ -801,6 +801,15 @@
     ]
   },
   {
+    "id": 3099,
+    "title": "Harshad Number",
+    "title_slug": "harshad-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3110,
     "title": "Score of a String",
     "title_slug": "score-of-a-string",
