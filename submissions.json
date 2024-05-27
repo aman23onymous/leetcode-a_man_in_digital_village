@@ -790,6 +790,17 @@
     ]
   },
   {
+    "id": 3046,
+    "title": "Split the Array",
+    "title_slug": "split-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3110,
     "title": "Score of a String",
     "title_slug": "score-of-a-string",
