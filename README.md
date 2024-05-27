@@ -82,6 +82,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
+| 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference) | Medium | `Array` `Math` `Number Theory` |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | Easy | `Array` |

@@ -780,6 +780,16 @@
     ]
   },
   {
+    "id": 3033,
+    "title": "Modify the Matrix",
+    "title_slug": "modify-the-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3110,
     "title": "Score of a String",
     "title_slug": "score-of-a-string",
