@@ -82,6 +82,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | `Array` `Greedy` `Sorting` |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | `String` |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | Easy | `Hash Table` `String` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |

@@ -781,6 +781,16 @@
     ]
   },
   {
+    "id": 2716,
+    "title": "Minimize String Length",
+    "title_slug": "minimize-string-length",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2778,
     "title": "Sum of Squares of Special Elements ",
     "title_slug": "sum-of-squares-of-special-elements",
