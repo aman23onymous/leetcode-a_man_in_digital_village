@@ -761,6 +761,17 @@
     ]
   },
   {
+    "id": 2706,
+    "title": "Buy Two Chocolates",
+    "title_slug": "buy-two-chocolates",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2710,
     "title": "Remove Trailing Zeros From a String",
     "title_slug": "remove-trailing-zeros-from-a-string",
