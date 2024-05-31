@@ -82,6 +82,7 @@
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | `Greedy` `Math` `Sorting` |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips) | Medium | `Array` `Binary Search` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
+| 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | `Array` `Greedy` `Sorting` |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | `String` |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | Easy | `Hash Table` `String` |

@@ -787,6 +787,16 @@
     ]
   },
   {
+    "id": 2643,
+    "title": "Row With Maximum Ones",
+    "title_slug": "row-with-maximum-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2706,
     "title": "Buy Two Chocolates",
     "title_slug": "buy-two-chocolates",
