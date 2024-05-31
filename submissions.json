@@ -837,6 +837,15 @@
     ]
   },
   {
+    "id": 2908,
+    "title": "Minimum Sum of Mountain Triplets I",
+    "title_slug": "minimum-sum-of-mountain-triplets-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2937,
     "title": "Make Three Strings Equal",
     "title_slug": "make-three-strings-equal",
