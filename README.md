@@ -72,6 +72,7 @@
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n) | Medium | `Math` `Number Theory` |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | `Array` `Binary Search` |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |

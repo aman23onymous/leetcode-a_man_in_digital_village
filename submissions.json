@@ -683,6 +683,16 @@
     ]
   },
   {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1492,
     "title": "The kth Factor of n",
     "title_slug": "the-kth-factor-of-n",
