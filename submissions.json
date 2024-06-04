@@ -787,6 +787,16 @@
     ]
   },
   {
+    "id": 2319,
+    "title": "Check if Matrix Is X-Matrix",
+    "title_slug": "check-if-matrix-is-x-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
