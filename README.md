@@ -83,6 +83,7 @@
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | `Greedy` `Math` `Sorting` |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips) | Medium | `Array` `Binary Search` |
 | 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | `Array` `Matrix` |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | `Bit Manipulation` `Counting` `Hash Table` `String` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | `Array` `Greedy` `Sorting` |

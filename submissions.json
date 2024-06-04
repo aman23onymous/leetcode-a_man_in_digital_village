@@ -797,6 +797,18 @@
     ]
   },
   {
+    "id": 2351,
+    "title": "First Letter to Appear Twice",
+    "title_slug": "first-letter-to-appear-twice",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
