@@ -831,6 +831,19 @@
     ]
   },
   {
+    "id": 2389,
+    "title": "Longest Subsequence With Limited Sum",
+    "title_slug": "longest-subsequence-with-limited-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Prefix Sum",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",

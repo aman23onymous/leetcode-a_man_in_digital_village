@@ -86,6 +86,7 @@
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips) | Medium | `Array` `Binary Search` |
 | 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | `Array` `Matrix` |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | `Bit Manipulation` `Counting` `Hash Table` `String` |
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
