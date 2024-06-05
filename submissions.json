@@ -693,6 +693,18 @@
     ]
   },
   {
+    "id": 1402,
+    "title": "Reducing Dishes",
+    "title_slug": "reducing-dishes",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
