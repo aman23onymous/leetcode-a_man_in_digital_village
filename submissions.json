@@ -809,6 +809,19 @@
     ]
   },
   {
+    "id": 2221,
+    "title": "Find Triangular Sum of an Array",
+    "title_slug": "find-triangular-sum-of-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Combinatorics",
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2319,
     "title": "Check if Matrix Is X-Matrix",
     "title_slug": "check-if-matrix-is-x-matrix",
