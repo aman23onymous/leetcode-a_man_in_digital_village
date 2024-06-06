@@ -867,6 +867,16 @@
     ]
   },
   {
+    "id": 2640,
+    "title": "Find the Score of All Prefixes of an Array",
+    "title_slug": "find-the-score-of-all-prefixes-of-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2643,
     "title": "Row With Maximum Ones",
     "title_slug": "row-with-maximum-ones",
