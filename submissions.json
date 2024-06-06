@@ -663,6 +663,16 @@
     ]
   },
   {
+    "id": 1109,
+    "title": "Corporate Flight Bookings",
+    "title_slug": "corporate-flight-bookings",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
