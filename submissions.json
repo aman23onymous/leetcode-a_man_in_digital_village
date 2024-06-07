@@ -877,6 +877,16 @@
     ]
   },
   {
+    "id": 2446,
+    "title": "Determine if Two Events Have Conflict",
+    "title_slug": "determine-if-two-events-have-conflict",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2640,
     "title": "Find the Score of All Prefixes of an Array",
     "title_slug": "find-the-score-of-all-prefixes-of-an-array",
