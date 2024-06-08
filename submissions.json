@@ -798,6 +798,15 @@
     ]
   },
   {
+    "id": 2124,
+    "title": "Check if All A's Appears Before All B's",
+    "title_slug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2160,
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
