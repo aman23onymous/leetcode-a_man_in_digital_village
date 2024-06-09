@@ -779,6 +779,16 @@
     ]
   },
   {
+    "id": 1662,
+    "title": "Check If Two String Arrays are Equivalent",
+    "title_slug": "check-if-two-string-arrays-are-equivalent",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 1952,
     "title": "Three Divisors",
     "title_slug": "three-divisors",
