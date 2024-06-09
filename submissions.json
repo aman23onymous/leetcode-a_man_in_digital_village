@@ -876,6 +876,17 @@
     ]
   },
   {
+    "id": 2396,
+    "title": "Strictly Palindromic Number",
+    "title_slug": "strictly-palindromic-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Brainteaser",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
