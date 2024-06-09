@@ -789,6 +789,16 @@
     ]
   },
   {
+    "id": 1688,
+    "title": "Count of Matches in Tournament",
+    "title_slug": "count-of-matches-in-tournament",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1952,
     "title": "Three Divisors",
     "title_slug": "three-divisors",
