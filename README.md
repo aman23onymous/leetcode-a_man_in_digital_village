@@ -70,6 +70,7 @@
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Medium | `Array` `Binary Search` |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | Medium | `Array` `Prefix Sum` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
