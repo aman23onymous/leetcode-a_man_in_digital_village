@@ -1105,5 +1105,15 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 3178,
+    "title": "Find the Child Who Has the Ball After K Seconds",
+    "title_slug": "find-the-child-who-has-the-ball-after-k-seconds",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
   }
 ]

@@ -113,3 +113,4 @@
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
 | 3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference) | Medium | `Array` `Math` `Number Theory` |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | Easy | `Array` |
+| 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds) | Easy | `Math` `Simulation` |
