@@ -1119,6 +1119,16 @@
     ]
   },
   {
+    "id": 3162,
+    "title": "Find the Number of Good Pairs I",
+    "title_slug": "find-the-number-of-good-pairs-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3178,
     "title": "Find the Child Who Has the Ball After K Seconds",
     "title_slug": "find-the-child-who-has-the-ball-after-k-seconds",
