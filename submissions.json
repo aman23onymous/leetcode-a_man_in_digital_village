@@ -560,6 +560,18 @@
     ]
   },
   {
+    "id": 713,
+    "title": "Subarray Product Less Than K",
+    "title_slug": "subarray-product-less-than-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 724,
     "title": "Find Pivot Index",
     "title_slug": "find-pivot-index",
