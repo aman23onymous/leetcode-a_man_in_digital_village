@@ -1042,6 +1042,17 @@
     ]
   },
   {
+    "id": 2848,
+    "title": "Points That Intersect With Cars",
+    "title_slug": "points-that-intersect-with-cars",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2859,
     "title": "Sum of Values at Indices With K Set Bits",
     "title_slug": "sum-of-values-at-indices-with-k-set-bits",
