@@ -972,6 +972,16 @@
     ]
   },
   {
+    "id": 2535,
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 2640,
     "title": "Find the Score of All Prefixes of an Array",
     "title_slug": "find-the-score-of-all-prefixes-of-an-array",
