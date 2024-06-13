@@ -953,6 +953,17 @@
     ]
   },
   {
+    "id": 2427,
+    "title": "Number of Common Factors",
+    "title_slug": "number-of-common-factors",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2446,
     "title": "Determine if Two Events Have Conflict",
     "title_slug": "determine-if-two-events-have-conflict",
