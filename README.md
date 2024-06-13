@@ -101,6 +101,7 @@
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) | Medium | `Array` `Prefix Sum` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
+| 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | `Array` `Greedy` `Sorting` |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | `String` |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | Easy | `Hash Table` `String` |

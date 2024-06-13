@@ -992,6 +992,16 @@
     ]
   },
   {
+    "id": 2656,
+    "title": "Maximum Sum With Exactly K Elements ",
+    "title_slug": "maximum-sum-with-exactly-k-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2706,
     "title": "Buy Two Chocolates",
     "title_slug": "buy-two-chocolates",
