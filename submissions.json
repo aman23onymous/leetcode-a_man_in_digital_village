@@ -1024,6 +1024,15 @@
     ]
   },
   {
+    "id": 2651,
+    "title": "Calculate Delayed Arrival Time",
+    "title_slug": "calculate-delayed-arrival-time",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2652,
     "title": "Sum Multiples",
     "title_slug": "sum-multiples",

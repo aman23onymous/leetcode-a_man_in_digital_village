@@ -104,6 +104,7 @@
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | `Array` `Enumeration` `Hash Table` |
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) | Medium | `Array` `Prefix Sum` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | `Math` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
 | 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
 | 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates) | Easy | `Array` `Greedy` `Sorting` |
