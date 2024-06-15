@@ -993,6 +993,17 @@
     ]
   },
   {
+    "id": 2605,
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "title_slug": "form-smallest-number-from-two-digit-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2640,
     "title": "Find the Score of All Prefixes of an Array",
     "title_slug": "find-the-score-of-all-prefixes-of-an-array",
