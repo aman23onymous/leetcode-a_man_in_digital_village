@@ -1120,6 +1120,15 @@
     ]
   },
   {
+    "id": 2798,
+    "title": "Number of Employees Who Met the Target",
+    "title_slug": "number-of-employees-who-met-the-target",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2810,
     "title": "Faulty Keyboard",
     "title_slug": "faulty-keyboard",
