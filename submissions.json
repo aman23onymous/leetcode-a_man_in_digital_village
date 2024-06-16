@@ -261,6 +261,17 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Happy Number",
+    "title_slug": "happy-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 205,
     "title": "Isomorphic Strings",
     "title_slug": "isomorphic-strings",
