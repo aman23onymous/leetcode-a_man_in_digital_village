@@ -1129,6 +1129,15 @@
     ]
   },
   {
+    "id": 2806,
+    "title": "Account Balance After Rounded Purchase",
+    "title_slug": "account-balance-after-rounded-purchase",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2810,
     "title": "Faulty Keyboard",
     "title_slug": "faulty-keyboard",
