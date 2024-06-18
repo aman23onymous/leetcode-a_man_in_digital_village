@@ -1050,6 +1050,16 @@
     ]
   },
   {
+    "id": 2443,
+    "title": "Sum of Number and Its Reverse",
+    "title_slug": "sum-of-number-and-its-reverse",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2446,
     "title": "Determine if Two Events Have Conflict",
     "title_slug": "determine-if-two-events-have-conflict",
