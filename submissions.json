@@ -624,6 +624,19 @@
     ]
   },
   {
+    "id": 826,
+    "title": "Most Profit Assigning Work",
+    "title_slug": "most-profit-assigning-work",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 832,
     "title": "Flipping an Image",
     "title_slug": "flipping-an-image",
