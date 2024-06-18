@@ -1040,6 +1040,16 @@
     ]
   },
   {
+    "id": 2437,
+    "title": "Number of Valid Clock Times",
+    "title_slug": "number-of-valid-clock-times",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "String"
+    ]
+  },
+  {
     "id": 2446,
     "title": "Determine if Two Events Have Conflict",
     "title_slug": "determine-if-two-events-have-conflict",

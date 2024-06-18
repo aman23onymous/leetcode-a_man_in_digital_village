@@ -105,6 +105,7 @@
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) | Easy | `Array` |
 | 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | Medium | `Array` `Bit Manipulation` |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times) | Easy | `Enumeration` `String` |
 | 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | Easy | `Array` `String` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
