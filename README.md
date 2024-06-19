@@ -138,3 +138,4 @@
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | `Array` `Hash Table` |
 | 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds) | Easy | `Math` `Simulation` |
+| 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i) | Easy | `Array` `Counting` `Hash Table` |

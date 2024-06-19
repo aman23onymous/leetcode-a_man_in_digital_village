@@ -1362,5 +1362,16 @@
       "Math",
       "Simulation"
     ]
+  },
+  {
+    "id": 3184,
+    "title": "Count Pairs That Form a Complete Day I",
+    "title_slug": "count-pairs-that-form-a-complete-day-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
   }
 ]
