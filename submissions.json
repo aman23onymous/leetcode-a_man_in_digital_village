@@ -963,6 +963,15 @@
     ]
   },
   {
+    "id": 2315,
+    "title": "Count Asterisks",
+    "title_slug": "count-asterisks",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2319,
     "title": "Check if Matrix Is X-Matrix",
     "title_slug": "check-if-matrix-is-x-matrix",
