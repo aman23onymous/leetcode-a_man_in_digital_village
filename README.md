@@ -124,6 +124,7 @@
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | `String` |
 | 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length) | Easy | `Hash Table` `String` |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum) | Easy | `Array` `Sorting` |
+| 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition) | Medium | `Array` `Sorting` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | `Array` |
 | 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | Easy | `Math` |

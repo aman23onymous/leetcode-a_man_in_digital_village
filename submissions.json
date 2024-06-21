@@ -1225,6 +1225,16 @@
     ]
   },
   {
+    "id": 2740,
+    "title": "Find the Value of the Partition",
+    "title_slug": "find-the-value-of-the-partition",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2778,
     "title": "Sum of Squares of Special Elements ",
     "title_slug": "sum-of-squares-of-special-elements",
