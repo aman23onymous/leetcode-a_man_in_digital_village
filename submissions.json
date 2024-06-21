@@ -745,6 +745,16 @@
     ]
   },
   {
+    "id": 1052,
+    "title": "Grumpy Bookstore Owner",
+    "title_slug": "grumpy-bookstore-owner",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1109,
     "title": "Corporate Flight Bookings",
     "title_slug": "corporate-flight-bookings",
