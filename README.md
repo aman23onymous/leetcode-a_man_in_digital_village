@@ -132,6 +132,7 @@
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | Easy | `Array` `String` |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars) | Easy | `Array` `Hash Table` `Prefix Sum` |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | `Array` `Bit Manipulation` |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | Easy | `Greedy` `Math` `String` |
 | 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i) | Easy | `Array` |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |

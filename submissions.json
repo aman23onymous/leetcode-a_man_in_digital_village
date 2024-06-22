@@ -1304,6 +1304,17 @@
     ]
   },
   {
+    "id": 2864,
+    "title": "Maximum Odd Binary Number",
+    "title_slug": "maximum-odd-binary-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2908,
     "title": "Minimum Sum of Mountain Triplets I",
     "title_slug": "minimum-sum-of-mountain-triplets-i",
