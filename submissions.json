@@ -1273,6 +1273,16 @@
     ]
   },
   {
+    "id": 2828,
+    "title": "Check if a String Is an Acronym of Words",
+    "title_slug": "check-if-a-string-is-an-acronym-of-words",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2848,
     "title": "Points That Intersect With Cars",
     "title_slug": "points-that-intersect-with-cars",
