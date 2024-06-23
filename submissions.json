@@ -1117,6 +1117,15 @@
     ]
   },
   {
+    "id": 2544,
+    "title": "Alternating Digit Sum",
+    "title_slug": "alternating-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2605,
     "title": "Form Smallest Number From Two Digit Arrays",
     "title_slug": "form-smallest-number-from-two-digit-arrays",
