@@ -1137,6 +1137,18 @@
     ]
   },
   {
+    "id": 2614,
+    "title": "Prime In Diagonal",
+    "title_slug": "prime-in-diagonal",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2640,
     "title": "Find the Score of All Prefixes of an Array",
     "title_slug": "find-the-score-of-all-prefixes-of-an-array",
