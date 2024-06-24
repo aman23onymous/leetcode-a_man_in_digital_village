@@ -55,6 +55,7 @@
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | `String` |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | `String` |
 | 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | Medium | `Math` `Simulation` `String` |
+| 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | Medium | `Array` `Binary Search` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | `String` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
