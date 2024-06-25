@@ -1118,6 +1118,17 @@
     ]
   },
   {
+    "id": 2507,
+    "title": "Smallest Value After Replacing With Sum of Prime Factors",
+    "title_slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2520,
     "title": "Count the Digits That Divide a Number",
     "title_slug": "count-the-digits-that-divide-a-number",
