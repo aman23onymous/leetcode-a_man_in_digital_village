@@ -1130,6 +1130,17 @@
     ]
   },
   {
+    "id": 2482,
+    "title": "Difference Between Ones and Zeros in Row and Column",
+    "title_slug": "difference-between-ones-and-zeros-in-row-and-column",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2507,
     "title": "Smallest Value After Replacing With Sum of Prime Factors",
     "title_slug": "smallest-value-after-replacing-with-sum-of-prime-factors",
