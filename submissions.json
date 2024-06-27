@@ -859,6 +859,16 @@
     ]
   },
   {
+    "id": 1456,
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "title_slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "skills": [
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
