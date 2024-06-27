@@ -847,6 +847,17 @@
     ]
   },
   {
+    "id": 1347,
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "title_slug": "minimum-number-of-steps-to-make-two-strings-anagram",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1402,
     "title": "Reducing Dishes",
     "title_slug": "reducing-dishes",
