@@ -36,6 +36,7 @@
 | 0204 | [Count Primes](https://leetcode.com/problems/count-primes) | Medium | `Array` `Enumeration` `Math` `Number Theory` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Counting` `Hash Table` `Sorting` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium | `Array` `Binary Search` `Divide and Conquer` `Matrix` |
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |

@@ -316,6 +316,18 @@
     ]
   },
   {
+    "id": 229,
+    "title": "Majority Element II",
+    "title_slug": "majority-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 238,
     "title": "Product of Array Except Self",
     "title_slug": "product-of-array-except-self",
