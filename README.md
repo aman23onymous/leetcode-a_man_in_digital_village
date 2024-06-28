@@ -28,6 +28,7 @@
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard | `Array` `Geometry` `Hash Table` `Math` |
+| 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | `Array` `Binary Search` `Two Pointers` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Medium | `Math` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
