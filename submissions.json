@@ -1236,6 +1236,18 @@
     ]
   },
   {
+    "id": 2521,
+    "title": "Distinct Prime Factors of Product of Array",
+    "title_slug": "distinct-prime-factors-of-product-of-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2535,
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",

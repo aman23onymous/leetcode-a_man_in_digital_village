@@ -124,6 +124,7 @@
 | 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column) | Medium | `Array` `Matrix` `Simulation` |
 | 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors) | Medium | `Math` `Number Theory` `Simulation` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
+| 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array) | Medium | `Array` `Hash Table` `Math` `Number Theory` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | `Array` `Enumeration` `Hash Table` |
