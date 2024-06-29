@@ -1565,6 +1565,16 @@
     ]
   },
   {
+    "id": 3159,
+    "title": "Find Occurrences of an Element in an Array",
+    "title_slug": "find-occurrences-of-an-element-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3162,
     "title": "Find the Number of Good Pairs I",
     "title_slug": "find-the-number-of-good-pairs-i",
