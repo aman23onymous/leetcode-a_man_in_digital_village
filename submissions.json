@@ -861,6 +861,16 @@
     ]
   },
   {
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "title_slug": "find-the-smallest-divisor-given-a-threshold",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1299,
     "title": "Replace Elements with Greatest Element on Right Side",
     "title_slug": "replace-elements-with-greatest-element-on-right-side",
