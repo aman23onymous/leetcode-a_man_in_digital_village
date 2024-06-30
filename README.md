@@ -113,6 +113,7 @@
 | 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | `Array` `Matrix` |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice) | Easy | `Bit Manipulation` `Counting` `Hash Table` `String` |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
+| 2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage) | Medium | `Array` `Prefix Sum` `String` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | `Brainteaser` `Math` `Two Pointers` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |

@@ -1124,6 +1124,17 @@
     ]
   },
   {
+    "id": 2391,
+    "title": "Minimum Amount of Time to Collect Garbage",
+    "title_slug": "minimum-amount-of-time-to-collect-garbage",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 2396,
     "title": "Strictly Palindromic Number",
     "title_slug": "strictly-palindromic-number",
