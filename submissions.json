@@ -913,6 +913,16 @@
     ]
   },
   {
+    "id": 1414,
+    "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "title_slug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 1456,
     "title": "Maximum Number of Vowels in a Substring of Given Length",
     "title_slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
