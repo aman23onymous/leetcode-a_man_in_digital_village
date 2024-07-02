@@ -506,6 +506,17 @@
     ]
   },
   {
+    "id": 477,
+    "title": "Total Hamming Distance",
+    "title_slug": "total-hamming-distance",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
