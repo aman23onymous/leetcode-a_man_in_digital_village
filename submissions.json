@@ -1100,6 +1100,19 @@
     ]
   },
   {
+    "id": 2249,
+    "title": "Count Lattice Points Inside a Circle",
+    "title_slug": "count-lattice-points-inside-a-circle",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Geometry",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 2315,
     "title": "Count Asterisks",
     "title_slug": "count-asterisks",
