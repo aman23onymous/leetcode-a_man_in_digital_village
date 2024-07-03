@@ -88,6 +88,7 @@
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) | Medium | `Array` `Sliding Window` |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings) | Medium | `Array` `Prefix Sum` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii) | Medium | `Binary Search` `Combinatorics` `Math` `Number Theory` |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | `Array` `Geometry` `Math` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | Medium | `Array` `Binary Search` |

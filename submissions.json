@@ -862,6 +862,18 @@
     ]
   },
   {
+    "id": 1201,
+    "title": "Ugly Number III",
+    "title_slug": "ugly-number-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Combinatorics",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 1232,
     "title": "Check If It Is a Straight Line",
     "title_slug": "check-if-it-is-a-straight-line",
