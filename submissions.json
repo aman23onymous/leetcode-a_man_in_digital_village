@@ -986,6 +986,17 @@
     ]
   },
   {
+    "id": 1509,
+    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "title_slug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1539,
     "title": "Kth Missing Positive Number",
     "title_slug": "kth-missing-positive-number",
