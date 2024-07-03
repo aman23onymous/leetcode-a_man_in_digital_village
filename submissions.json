@@ -1366,6 +1366,17 @@
     ]
   },
   {
+    "id": 2575,
+    "title": "Find the Divisibility Array of a String",
+    "title_slug": "find-the-divisibility-array-of-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2605,
     "title": "Form Smallest Number From Two Digit Arrays",
     "title_slug": "form-smallest-number-from-two-digit-arrays",
