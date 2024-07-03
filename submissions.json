@@ -1355,6 +1355,17 @@
     ]
   },
   {
+    "id": 2545,
+    "title": "Sort the Students by Their Kth Score",
+    "title_slug": "sort-the-students-by-their-kth-score",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2605,
     "title": "Form Smallest Number From Two Digit Arrays",
     "title_slug": "form-smallest-number-from-two-digit-arrays",

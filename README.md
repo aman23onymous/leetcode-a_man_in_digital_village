@@ -135,6 +135,7 @@
 | 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array) | Medium | `Array` `Hash Table` `Math` `Number Theory` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
+| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score) | Medium | `Array` `Matrix` `Sorting` |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | `Array` `Enumeration` `Hash Table` |
 | 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal) | Easy | `Array` `Math` `Matrix` `Number Theory` |
 | 2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array) | Medium | `Array` `Prefix Sum` |
