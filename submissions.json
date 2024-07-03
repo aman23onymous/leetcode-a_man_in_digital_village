@@ -1039,6 +1039,17 @@
     ]
   },
   {
+    "id": 1685,
+    "title": "Sum of Absolute Differences in a Sorted Array",
+    "title_slug": "sum-of-absolute-differences-in-a-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1688,
     "title": "Count of Matches in Tournament",
     "title_slug": "count-of-matches-in-tournament",
