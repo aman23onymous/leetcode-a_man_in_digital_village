@@ -162,6 +162,7 @@
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | Easy | `Greedy` `Math` `String` |
 | 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i) | Easy | `Array` |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
+| 2947 | [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i) | Medium | `Enumeration` `Hash Table` `Math` `Number Theory` `Prefix Sum` `String` |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |
 | 3046 | [Split the Array](https://leetcode.com/problems/split-the-array) | Easy | `Array` `Counting` `Hash Table` |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | Easy | `Math` |

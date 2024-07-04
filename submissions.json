@@ -1627,6 +1627,20 @@
     ]
   },
   {
+    "id": 2947,
+    "title": "Count Beautiful Substrings I",
+    "title_slug": "count-beautiful-substrings-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "Hash Table",
+      "Math",
+      "Number Theory",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 3033,
     "title": "Modify the Matrix",
     "title_slug": "modify-the-matrix",
