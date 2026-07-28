@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    const long long LIMIT = 1000001;
+const long long LIMIT = 1000001;
     const long double LOG_LIMIT = logl((long double)1000001);
 
     vector<long double> logFact;
@@ -53,58 +53,34 @@ public:
 
 
     string smallestPalindrome(string s, int k) {
+        int n=s.size();initLogFact(n/2);
 
-        int n = s.size();
+        map<char,int>mp;
+        for(int i=0;i<n/2;i++) mp[s[i]]++;
+        string str="";
+        int sz=0;
+        if(arrangements(mp)<k) return "";
+        while(sz<(n)/2){
+            int b=0;
+            vector<int> as;
+            for(auto &[x,y]:mp){
+                if(y==0) continue;
 
-        map<char,int> mp;
-
-        // frequency of first half
-        for (char c : s)
-            mp[c]++;
-
-        for (auto &[c,f] : mp)
-            f /= 2;
-
-
-        initLogFact(n/2);
-
-
-        if (arrangements(mp) < k)
-            return "";
-
-
-        string left = "";
-
-        for (int pos = 0; pos < n/2; pos++) {
-
-            long long skipped = 0;
-
-            for (auto &[ch, cnt] : mp) {
-
-                if (cnt == 0) continue;
-
-                cnt--;
-
-                long long ways = arrangements(mp);
-
-                if (k <= skipped + ways) {
-                    left.push_back(ch);
-                    k -= skipped;
+                y--;
+                int v=arrangements(mp);
+                if(k-1<b+v){
+                    str.push_back(x);
+                    k-=b;
                     break;
                 }
-
-                skipped += ways;
-                cnt++;
+                b+=v;
+                y++;
             }
+            sz++;
         }
-
-
-        string right = left;
-        reverse(right.begin(), right.end());
-
-        if (n & 1)
-            return left + string(1, s[n/2]) + right;
-
-        return left + right;
+        string trs=str;
+        reverse(begin(trs),end(trs));
+        if(s.size()%2) return str+s.substr(n/2,1)+trs;
+        return str+trs;
     }
 };
