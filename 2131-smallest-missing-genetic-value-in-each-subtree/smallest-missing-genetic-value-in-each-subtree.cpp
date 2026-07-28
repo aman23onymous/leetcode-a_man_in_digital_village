@@ -36,8 +36,8 @@ public:
                 if(i==b) continue;
                 dfs(i,u,br,nums);
             }
-            for(int i=0;i<=8;i++) cout<<br[i]<<" ";
-            cout<<mx<<"\n";
+            // for(int i=0;i<=8;i++) cout<<br[i]<<" ";
+            // cout<<mx<<"\n";
             while(br[mx]>0) mx++;
             ads[u]=mx;
             b=u;
