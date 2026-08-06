@@ -23,13 +23,14 @@ int ret;
         return su;
     }
     vector<int> sde(TreeNode* root){
-        int tr=1,mx=root->val,mn=root->val;
+        int tr=1,mx=root->val,mn=root->val,su=root->val;
         if(root->left){
             vector<int> anl=sde(root->left);
             if(anl[0]==0) tr=0;
             mx=max(mx,anl[1]);
             mn=min(mn,anl[2]);
             if(root->val<=anl[1]) tr=0;
+            su+=anl[3];
         }
         if(root->right){
             vector<int> anr=sde(root->right);
@@ -37,13 +38,15 @@ int ret;
             mx=max(mx,anr[1]);
             mn=min(mn,anr[2]);
             if(root->val>=anr[2]) tr=0;
+            su+=anr[3];
         }
         mp[root]=tr;
-        return {tr,mx,mn};
+        if(tr) ret=max(ret,su);
+        return {tr,mx,mn,su};
     }
     int maxSumBST(TreeNode* root) {
         vector<int> sd=sde(root);
-        int k=sumi(root);
+        // int k=sumi(root);
         return ret;
     }
 };
