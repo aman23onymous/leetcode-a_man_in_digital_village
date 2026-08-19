@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[11][2][11];
+    int dp[10][2][10];
     int cnt(int i,int t,int z,string s){
         if(i==s.size()) return z;
         if(1+dp[i][t][z]) return dp[i][t][z];
