@@ -9,18 +9,18 @@ public:
             }
         }
         if(br==-1){
-            sort(begin(nums),end(nums));
+            reverse(begin(nums),end(nums));
             return;
         }
         // cout<<br;
         int k=br+1;
-        for(int i=br+1;i<n;i++){
+        for(int i=n-1;i>br;i--){
             if(nums[br]<nums[i]){
-                if(nums[i]<nums[k]) k=i;
+                k=i;
+                break;
             }
         }
-        cout<<k;
         swap(nums[k],nums[br]);
-        sort(begin(nums)+br+1,end(nums));
+        reverse(begin(nums)+br+1,end(nums));
     }
 };
