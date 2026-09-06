@@ -1,68 +1,63 @@
 class LRUCache {
 public:
     class Node{
-        public:
-        int val;
-        int key;
-        Node* next;
-        Node* prev;
-        Node(int k,int v){
-            this->val=v;
-            this->key=k;
+    public:
+        int k;
+        int v;
+        Node* nxt;
+        Node* prv;
+        Node(int ek,int ev){
+            k = ek;
+            v = ev;
+            nxt=nullptr;
+            prv=nullptr;
         }
     };
-    map<int,Node*>mp;
-    Node*hd,*ta;
-    int sz=0;
+    Node*hd,*tl;
+    int sz;
+    map<int,Node*> mp;
     LRUCache(int capacity) {
         sz=capacity;
-        mp.clear();
         hd=new Node(-1,-1);
-        ta=new Node(-1,-1);
-        hd->next=ta;
-        ta->prev=hd;
+        tl=new Node(-1,-1);
+        hd->nxt=tl;
+        tl->prv=hd;
     }
-    Node* addNode(int k,int v){
-        Node *ns=new Node(k,v);
-        ns->next=hd->next;
-        ns->prev=hd;
-        hd->next->prev=ns;
-        hd->next=ns;
-        return ns;
+    void dlt(Node*cr){
+        Node*fr=cr->nxt,*bc=cr->prv;
+        fr->prv=cr->prv;
+        bc->nxt=cr->nxt;
+        delete(cr);
     }
-    void dele(Node*nd){
-        Node* prr=nd->prev;
-        Node* nxx=nd->next;
-        prr->next=nxx;
-        nxx->prev=prr;
+    Node*crt(int key,int val){
+        Node*nr=new Node(key,val);
+        nr->nxt=hd->nxt;
+        nr->prv=hd;
+        hd->nxt=nr;
+        nr->nxt->prv=nr;
+        return nr;
     }
+    
     int get(int key) {
         if(mp.count(key)){
-            Node* b=mp[key];
-            int ans=b->val;
-            dele(b);
-            mp[key]=addNode(key,ans);
-            return ans;
+            int vl=mp[key]->v;
+            dlt(mp[key]);
+            mp[key]=crt(key,vl);
+            return vl;
         }
         return -1;
     }
-    
-    void put(int key, int value) {
+    void put(int key, int val) {
         if(mp.count(key)){
-            Node* b=mp[key];
-            dele(b);
-            mp[key]=addNode(key,value);
+            dlt(mp[key]);
+            mp[key]=crt(key,val);
         }
-        else{
-            if(mp.size()==sz){
-                mp.erase(ta->prev->key);
-                dele(ta->prev);
-                mp[key]=addNode(key,value);
-            }
-            else{
-                mp[key]=addNode(key,value);
-            }
+        else if(mp.size()==sz){
+            mp.erase(tl->prv->k);
+            dlt(tl->prv);
+            mp[key]=crt(key,val);
         }
+        else mp[key]=crt(key,val);
     }
 };
 
