@@ -22,11 +22,10 @@ public:
     }
     void gc(TreeNode* root,int c){
         if(!root) return ;
-        if(c==root->val) {cout<<(root->val)<<c<<" ";st.insert(root);}
+        if(c==root->val) {st.insert(root);}
     }
     void cla(TreeNode* root){
         if(!root) return ;
-        if(root->val==2) cout<<mp[root];
         gc(root,mp[root]);
         cla(root->left);
         cla(root->right);
