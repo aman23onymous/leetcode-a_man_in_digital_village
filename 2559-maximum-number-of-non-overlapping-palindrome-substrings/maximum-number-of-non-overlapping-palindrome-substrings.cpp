@@ -1,6 +1,6 @@
 class Solution {
 public:
-    map<int,int> mp;
+    unordered_map<int,int> mp;
     int dip(int i,vector<vector<int>>& dp,int k){
         if(i<0) return 0;
         if(mp.count(i)) return mp[i];
