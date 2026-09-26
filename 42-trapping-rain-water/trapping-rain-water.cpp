@@ -8,7 +8,7 @@ public:
                 int h=ht[st.top()];st.pop();
                 if(st.size()==0)break;
                 ans+=((min(ht[st.top()],ht[i])-h)*(i-st.top()-1));
-                cout<<i<<" "<<(min(ht[st.top()],ht[i]))<<"\n";
+                    cout<<i<<" "<<(min(ht[st.top()],ht[i]))<<"\n";
                 // st.pop();
             }
             st.push(i);
