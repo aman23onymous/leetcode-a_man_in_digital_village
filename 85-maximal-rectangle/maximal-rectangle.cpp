@@ -5,7 +5,7 @@ public:
         stack<int> st;
         vector<int> prn(n,-1),nxt(n,n);
         for(int i=0;i<n;i++){
-            cout<<a[i]<<" ";
+            // cout<<a[i]<<" ";
             while(st.size() and a[st.top()]>=a[i]) st.pop();
             if(st.size()) prn[i]=st.top();
             st.push(i);
@@ -17,7 +17,7 @@ public:
             st.push(i);
         }
         for(int i=0;i<n;i++){
-            cout<<nxt[i]<<" "<<prn[i]<<"\n";
+            // cout<<nxt[i]<<" "<<prn[i]<<"\n";
             mx=max(mx,a[i]*(nxt[i]-prn[i]-1));
         }
         return mx;
@@ -29,9 +29,9 @@ public:
             for(int j=0;j<n;j++){
                 if(mat[j][i]=='0') a[j]=0;
                 else a[j]++;
-                cout<<a[j]<<" ";
+                // cout<<a[j]<<" ";
             }
-            cout<<"\n";
+            // cout<<"\n";
             mx=max(mx,reti(a));
         }
         return mx;
