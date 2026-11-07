@@ -11,7 +11,6 @@ public:
         for(int i=0;i<n;i++) if(ind[i]==0) {q.push(i);a[i]=max(a[i],tim[i]);}
         while(q.size()){
             int x=q.front();q.pop();
-            cout<<x<<" "<<a[x]<<"\n";
             for(int y:adj[x]){
                 a[y]=max(a[y],a[x]+tim[y]);
                 ind[y]--;
