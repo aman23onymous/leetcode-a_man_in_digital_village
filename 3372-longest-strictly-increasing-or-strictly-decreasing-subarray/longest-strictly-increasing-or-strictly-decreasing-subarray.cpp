@@ -8,7 +8,6 @@ public:
             i=j;
             if(j<n-1 and a[j]<a[j+1])while(j<n-1 and a[j]<a[j+1]) j++;
             else while(j<n-1 and a[j]>a[j+1]) j++;
-            cout<<j<<"\n";
             mx=max(mx,j-i+1);
             i=j;
         }
