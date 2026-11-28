@@ -1,42 +1,54 @@
 class Solution {
 public:
-    vector<string> fullJustify(vector<string>& words, int maxWidth) {
-        vector<string> ans;
-        int i=0;
-        while(i<words.size()){
-            int j=i,s=0;
-            vector<string> v;
-            string ansi="";
-            while(j<words.size()){
-                if(s+words[j].size()+j-i>maxWidth){
-                    break;
-                }
-                v.push_back(words[j]);
-                s+=words[j].size();
+    vector<string> fullJustify(vector<string>& words, int mW) {
+        int j=0;
+        vector<string> vw;
+        while(j<words.size()){
+            int i=j,k=0;
+            string w="";
+            while(i<words.size()){
+                if(k+words[i].size()+i-j-1<mW) k+=words[i].size();
+                else break;
+                i++;
+            }
+            cout<<k<<" "<<j<<" "<<i<<"\n";
+            w+=words[j];
+            if(i==j+1){
+                while(w.size()<mW) w.push_back(' ');
+                vw.push_back(w);
+                j=i;
+                continue;
+            }
+            if(i==words.size()){
+                w.push_back(' ');
                 j++;
-            }
-            cout<<i<<" "<<j<<"\n";
-            if(j<words.size()){
-                int spl=maxWidth-s;
-                int spc=j-i-1;
-                for(int k=0;k<spc;k++){
-                    ansi+=(words[i+k]);
-                    int l=spl/spc+(k<(spl%spc));
-                    while(l--) ansi.push_back(' ');
+                while(j<i){
+                    w+=words[j];
+                    if(w.size()<mW)w.push_back(' ');
+                    j++;
                 }
-                ansi+=(words[i+spc]);
-                while(ansi.size()<maxWidth) ansi.push_back(' ');
+                while(w.size()<mW) w.push_back(' ');
+                vw.push_back(w);
+                break;
             }
-            else{
-                for(int k=i;k<j;k++){
-                    ansi+=words[k];
-                    if(k!=j-1)ansi.push_back(' ');
-                }
-                while(ansi.size()<maxWidth) ansi.push_back(' ');
+            int spl=mW-k;
+            int sl=i-j-1;
+            int bb=spl/sl,cc=spl%sl;
+            while(cc--){
+                for(int x=0;x<=bb;x++) w.push_back(' ');
+                j++;
+                w+=words[j];
+                sl--;
             }
-            i=j;
-            ans.push_back(ansi);
+            while(sl--){
+                for(int x=0;x<bb;x++) w.push_back(' ');
+                j++;
+                w+=words[j];
+                // sl--;
+            }
+            vw.push_back(w);
+            j=i;
         }
-        return ans;
+        return vw;
     }
 };
