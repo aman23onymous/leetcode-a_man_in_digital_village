@@ -1,7 +1,7 @@
 class Solution {
 public:
-    map<char,int>ma;
-    map<char,int>mp;
+    unordered_map<char,int>ma;
+    unordered_map<char,int>mp;
     bool ch(){
         for(auto [x,y]:ma){
             if(y>mp[x])return 0;
